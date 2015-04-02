@@ -1,11 +1,8 @@
 {
   "name": "no-cache-html",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/valaxy/no-cache-html",
-  "authors": [
-    "tianyuzou <valaxy@qq.com>"
-  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
