@@ -9,7 +9,7 @@ Use the mechanism to reload page when it exceed the cache time
     	 cache-time: how long to force UA to no cache(in ms), default: 600*1000(10 mins)
 	     flag-name:  what is the name of random query param, do not conflict the regex, default: flag -->
     <script src="bower_components/no-cache-html/index.js"
-            cache-time="10000" 
+            cache-time="600000" 
             flag-name="flag"> 
     </script>
 </head>
